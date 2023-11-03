@@ -20,6 +20,7 @@
             </router-link>
             <div type="button" 
             role="button"     
+            class="list-group-item dropdown-item list-group-item-action"
             data-bs-toggle="modal" 
             data-bs-target="#createEventModal">
               Create Event
